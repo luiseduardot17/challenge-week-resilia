@@ -5,8 +5,6 @@
 table {
   width: 600px;
   height: 358px;
-  left: 38px;
-  top: 544px;
   background: #ffffff;
   border-radius: 10px;
   font-family: "Archivo", sans-serif;
@@ -16,10 +14,25 @@ th,
 td {
   text-align: center;
   border-bottom: 1px solid black;
-  border-right: 1px solid black;
 }
 
 table,
 td {
   border-collapse: collapse;
+}
+
+tr {
+  height: 50px;
+}
+
+td {
+  height: 10px;
+}
+
+.id {
+  width: 10px;
+}
+
+table p {
+  text-align: center;
 }
