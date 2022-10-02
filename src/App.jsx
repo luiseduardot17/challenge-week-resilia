@@ -6,6 +6,7 @@ import Table from "./components/Table/Table";
 import Tittle from "./components/Tittle/Tittle";
 
 function App() {
+
   return (
     <div className="App">
       <Header />
