@@ -2,6 +2,8 @@
 
 Esse desafio é para treinar e avaliar o domínio em desenvolvimento fullstack!<br>
 
+## 🚧 Em construção 🚧
+
 ## 📷 Imagem da aplicação:
 
 ![image](https://user-images.githubusercontent.com/102761201/193514210-b7ea3800-9eed-41e1-8e37-c192c42c65b0.png)
